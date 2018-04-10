@@ -1,12 +1,19 @@
 <resources>
     <string name="app_name">Personas</string>
-    <string name="Registrar">registrar</string>
-    <string name="registrar">Registrar</string>
-    <string name="cedula">Cédula</string>
+    <string name="titulo">Registrar</string>
     <string name="cedula">Cédula</string>
     <string name="nombre">Nombre</string>
     <string name="apellido">Apellido</string>
     <string name="guardar">Guardar</string>
     <string name="borrar">Borrar</string>
     <string name="numero">No.</string>
+    <string name="mensaje_guardado">Persona Registrada Exitosamente</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+
+    </string-array>
+
 </resources>
